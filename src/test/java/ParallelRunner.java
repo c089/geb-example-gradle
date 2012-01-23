@@ -1,3 +1,4 @@
+// NOTE: Taken from the Apache OFBiz project, license is Apache License 2.0
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.concurrent.CompletionService;
